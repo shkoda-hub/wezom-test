@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="EndToEnd suite">
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+    <test name="Ent to End test">
+        <classes>
+            <class name="TestEndToEndToBuyProduct"/>
+        </classes>
+    </test>
+</suite>

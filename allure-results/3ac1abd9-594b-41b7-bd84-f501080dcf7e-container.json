@@ -1,0 +1,1 @@
+{"uuid":"3ac1abd9-594b-41b7-bd84-f501080dcf7e","name":"TestEndToEndToBuyProduct","children":["e37852d2-0523-4847-8757-539f2722b449"],"befores":[{"name":"setUpPagesAndComponents","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1677241952025,"stop":1677241952175}],"afters":[],"start":1677241951997,"stop":1677241975851}

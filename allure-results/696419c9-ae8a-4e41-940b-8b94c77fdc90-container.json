@@ -1,0 +1,1 @@
+{"uuid":"696419c9-ae8a-4e41-940b-8b94c77fdc90","name":"BaseTest.openStore","children":["44d12185-81b7-4659-a82a-fa21169e5b80"],"description":"","befores":[{"name":"openStore","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1677242218893,"stop":1677242223537}],"afters":[],"start":1677242218893,"stop":1677242223537}
